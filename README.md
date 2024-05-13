@@ -77,7 +77,7 @@ Contributors names and contact info
 3. 
 4. 
 5. 
-Your Name
+
 ### Version History
 0.1
 ### Initial Release

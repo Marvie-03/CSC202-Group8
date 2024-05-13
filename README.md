@@ -71,13 +71,12 @@ double calculateArea(): Calculates and returns the surface area of the cube.
 double calculateVolume(): Calculates and returns the volume of the cube.
 String getName(): Returns the name of the shape.
 # Authors
-Contributors names and matric number 
+Group Memebers names and Matric number 
 1. Modupe Marvellous **UJ/2020/NS/0679**
-2. Ngwu uchenna Joseph **UJ/2020/NS/0819**
-    
-3. 
-4. 
-5. 
+2. Ngwu uchenna Joseph **UJ/2020/NS/0819** 
+3. Katuka Zabrang **UJ/2020/NS/0641** 
+4. Ejembi ThankGod Ochechema **UJ/2020/NS/0587** 
+5. Hamed Eneojo Gideon **UJ/2020/NS/0790**
 
 ### Version History
 0.1
